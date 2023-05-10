@@ -3,7 +3,7 @@
 Questioin:
 A game consists of tossing a one rupee coin 3 times and noting its outcome each time.
 Hanif wins if all the tosses give the same result i.e., three heads or three tails, 
-and loses otherwise. Calculate the probability that Hanif wil"""
+and loses otherwise. Calculate the probability that Hanif win the game"""
 
 #Intialization of variables
 N=0 #Total possible cases counter
